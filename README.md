@@ -82,6 +82,10 @@ Model strategy consistently outperformed Buy & Hold during evaluation period.
 
 <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/35a74481-89f8-4af3-b2d9-49e468d8fac3" />
 
+# AI Usage
+
+AI was used to help develop some of the code around RSI candlestick chart as I was not familiar with that Python library package. AI was also used to help refine and perform hyperparameter tuning to improve the accuracy score of the model. The last part was AI was then used to help compare the Model Strategy vs Buy and Hold strategy to ensure the returns were being calculated correctly.
+
 # License
 
 MIT License
