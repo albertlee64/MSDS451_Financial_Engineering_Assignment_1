@@ -7,7 +7,7 @@ Copy
 Edit
 2. Create Virtual Environment (Optional but Recommended)
 3. Install Required Packages
-4. Run in Jupyter Notebook - 
+4. Run in Jupyter Notebook - Assignment_1.ipynb
    
 
 # MSDS451 Financial Engineering Assignment 1
