@@ -1,3 +1,15 @@
+# Instructions for Running and Testing the Program
+
+Setup Instructions
+1. Clone the Repository
+bash
+Copy
+Edit
+2. Create Virtual Environment (Optional but Recommended)
+3. Install Required Packages
+4. Run in Jupyter Notebook - 
+   
+
 # MSDS451 Financial Engineering Assignment 1
 
 This project builds a machine learning pipeline to predict the 5-day direction (up/down) of Booz Allen Hamilton (BAH) stock using technical indicators and price-derived features. It leverages XGBoost for classification, includes extensive feature engineering, time series cross-validation, and backtesting with return comparisons against a Buy & Hold strategy.
