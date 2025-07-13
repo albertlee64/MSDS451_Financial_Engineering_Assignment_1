@@ -82,6 +82,8 @@ Model strategy consistently outperformed Buy & Hold during evaluation period.
 
 <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/35a74481-89f8-4af3-b2d9-49e468d8fac3" />
 
+# License
 
+MIT License
 
 
