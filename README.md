@@ -1,10 +1,7 @@
 # Instructions for Running and Testing the Program
 
 Setup Instructions
-1. Clone the Repository
-bash
-Copy
-Edit
+1. Clone the Repository - https://github.com/albertlee64/MSDS451_Financial_Engineering_Assignment_1.git
 2. Create Virtual Environment (Optional but Recommended)
 3. Install Required Packages
 4. Run in Jupyter Notebook - Assignment_1.ipynb
